@@ -1,6 +1,6 @@
 # Discord Moderation Bot
 
-○ JaylenOzi Geliştirmiş Olduğu Moderasyon Botunu Tanıtmak isterim.
+○ JaylenOzi ile Geliştirmiş Olduğumuz Moderasyon Botunu Tanıtmak isterim.
 ○ Invite, Moderasyon, Butonlu Register /Oto Register, Stats, Buton sistemleri.
 ○ https://github.com/JaylenOzi
 
